@@ -1,3 +1,4 @@
+salida/*.txt
+
 node_modules/
 
-db/data.json
